@@ -1,0 +1,8 @@
+.hugo_build.lock
+exampleSite
+resources
+public
+
+### macOS ###
+*.DS_Store
+._*
