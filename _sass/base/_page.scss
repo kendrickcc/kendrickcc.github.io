@@ -1,7 +1,5 @@
 // Global styling for this template
 body {
-  color: white;
-  background-color: black;
   overflow-x: hidden;
   @include body-font;
 }
@@ -27,8 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: lightgray;
-  font-weight: 600;
+  font-weight: 700;
   @include heading-font;
 }
 
@@ -48,7 +45,7 @@ h6 {
     @include serif-font;
   }
 }
-@media(min-width:768px) {
+@media (min-width: 768px) {
   section {
     padding: 150px 0;
   }
