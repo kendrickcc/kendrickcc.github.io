@@ -11,6 +11,7 @@
 
 .btn-primary {
   background-color: $primary;
+  margin: 0.1rem;
   border-color: $primary;
   &:active,
   &:focus,
@@ -21,6 +22,6 @@
   }
   &:active,
   &:focus {
-    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55,.5) !important;
   }
 }

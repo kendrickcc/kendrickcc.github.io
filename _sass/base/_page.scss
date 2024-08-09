@@ -1,7 +1,8 @@
 // Global styling for this template
 body {
   overflow-x: hidden;
-  @include body-font;
+  // @include body-font;
+  @extend %base-font-style;
 }
 
 p {
@@ -26,7 +27,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  @include heading-font;
+  // @include heading-font;
 }
 
 .page-section {
@@ -34,7 +35,13 @@ h6 {
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+  }
+  
+  h3.section-heading {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 12px;
   }
   h3.section-subheading {
     font-size: 16px;
@@ -42,12 +49,12 @@ h6 {
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
-    @include serif-font;
+    // @include serif-font;
   }
 }
-@media (min-width: 768px) {
+@media(min-width:768px) {
   section {
-    padding: 150px 0;
+    padding: 0px 0;
   }
 }
 
@@ -68,4 +75,24 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+.blog-list {
+  list-style: none;
+  .blog-list-item {
+    margin: 3% 0 3% 0;
+  }
+}
+.paginator-links-list {
+  list-style: none;
+}
+
+%base-font-style{
+  letter-spacing: -0.003em;
+  line-height: 32px;
+  font-weight: 200 !important;
+}
+.clean-text {
+  @extend %base-font-style;
+  font-size: 21px;
+  margin: 30px 0;
 }
