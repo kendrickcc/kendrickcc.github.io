@@ -16,7 +16,7 @@
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : "Chris Kendrick Photograpy"
+title      : "Chris Kendrick Photography"
 email      : "info@ChrisKendrickPhotography.com" #this is also the email contact forms will go to
 formspree_form_path: "mqknwqkw"
 description: "Aerial Photography | Aerial Videography | Photogrammetry"
