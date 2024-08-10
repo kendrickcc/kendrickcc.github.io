@@ -90,7 +90,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/ewaynethomas.png
       - title: "Jinson Photography"
         url: https://www.jinsonphotography.com
-        logo: assets/img/clients/jinsonlarge.jpg
+        logo: assets/img/clients/jinsonlarge.png
 
   team:
     title: "OUR AMAZING TEAM"
