@@ -13,13 +13,16 @@
 
 #theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://chriskendrickphotography.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Chris Kendrick Photography"
 email      : "info@ChrisKendrickPhotography.com" #this is also the email contact forms will go to
-formspree_form_path: "mqknwqkw"
-description: "Aerial Photography | Aerial Videography | Photogrammetry"
+description: >-
+  Aerial photography, videography and photogrammetry services covering Missouri. Based out of Columbia, MO, I've traveled all over the state capturing
+  standard commercial locations and real estate. I also capture photogrammetry type missions to measure stock piles of material, compositing orthomosaics,
+  and building 3D objects. My drones are the DJI Mavic 3 platform: Mavic 3 Pro and Mavic 3 Pro Cine and the Mavic 3 Enterprise with RTK which can achieve
+  centimeter level accuracy.
 author     : "Chris Kendrick"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -38,3 +41,4 @@ markdown: kramdown
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/mqknwqkw"
