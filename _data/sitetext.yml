@@ -39,8 +39,12 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "est. 2020"
+    body: >-
+      Chris Kendrick Photography launched in 2020 when Chris decided to change careers and focus primarily on photography. Received their FAA Part 107 certificate and immediately 
+      found work flying corn, soybean and cotton fields for crop scouting. We expanded into real estate photography to include interior photography in addition to exterior
+      photographs. In 2022 and 2023 Chris Kendrick Photography was hired to fly crops for Taranis. Over those two years, we flew over 100,000 acres mostly in North Missouri and a small
+      area in Southwest Kansas. We began to work on video projects such as documentaries, commercials and events. 
     section: about
 
   clients:
