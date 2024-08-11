@@ -14,12 +14,7 @@ Gem::Specification.new do |spec|
   end
 
   spec.required_ruby_version = '>= 2.5.0'
-  
-  spec.add_runtime_dependency "jekyll", ">= 4.0", "< 4.4"
-  spec.add_runtime_dependency "jekyll-feed", "~> 0.12"
-  spec.add_runtime_dependency "jekyll-paginate-v2", "~> 3.0"
-  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8"
-
+  spec.add_runtime_dependency "jekyll", ">= 3.0", "< 4.4"
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 13.0"
 end
