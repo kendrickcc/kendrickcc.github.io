@@ -83,15 +83,11 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/ChrisKendrickPhotographyLLC
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/ChrisKendrickPhotography
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/chriskendrickphotography
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
