@@ -23,9 +23,9 @@ description: >-
   and building 3D objects. My drones are the DJI Mavic 3 platform: Mavic 3 Pro and Mavic 3 Pro Cine and the Mavic 3 Enterprise with RTK which can achieve
   centimeter level accuracy.
 author     : "Chris Kendrick"
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+#logo:     #optional, defaults to site title
+#  path: assets\img\clients\CKP-logo-white-transparent.png
+#  height: 60 #height in px, defaults to 52px
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:

@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Let us fly for you 
-    text:
+    title: Let Us Fly For You
+    text: 
     button: Tell Me More
     buttonlink: "#services"
 
