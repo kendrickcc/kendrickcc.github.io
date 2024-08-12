@@ -18,10 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : "Chris Kendrick Photography"
 email      : "info@ChrisKendrickPhotography.com" #this is also the email contact forms will go to
 description: >-
-  Aerial photography, videography and photogrammetry services covering Missouri. Based out of Columbia, MO, I've traveled all over the state capturing
-  standard commercial locations and real estate. I also capture photogrammetry type missions to measure stock piles of material, compositing orthomosaics,
-  and building 3D objects. My drones are the DJI Mavic 3 platform: Mavic 3 Pro and Mavic 3 Pro Cine and the Mavic 3 Enterprise with RTK which can achieve
-  centimeter level accuracy.
+  Aerial photography, videography and photogrammetry services covering Missouri. Services include real estate and commercial property, 
+  georeferenced orthomosaics, DTM, DSM, stock pile measurement, 3D objects. Based out of Columbia, MO, using Mavic 3 Enterprise with RTK and Mavic 3 Pro Cine.
 author     : "Chris Kendrick"
 #logo:     #optional, defaults to site title
 #  path: assets\img\clients\CKP-logo-white-transparent.png
