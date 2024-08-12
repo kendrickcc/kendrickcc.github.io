@@ -21,3 +21,6 @@ Minimal-Mistakes for examples - https://github.com/mmistakes/minimal-mistakes/tr
     https://cdnjs.com/libraries/cookieconsent2
     deployed in CKPWeb site
 
+### Place Hold It
+
+To create graphic place hold place-hold.it

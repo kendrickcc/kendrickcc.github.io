@@ -1,9 +1,6 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
-gemspec
+#gemspec
 
-
-group :jekyll_plugins do
-#  gem "jekyll-feed", "~> 0.12" # Atom feed for posts
-  gem "jekyll-seo-tag", "~> 2.8"
-end
+gem 'jekyll-theme-minimal', '~> 0.2.0'
+gem 'jekyll-seo-tag', '~> 2.8'
