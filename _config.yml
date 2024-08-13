@@ -27,6 +27,7 @@ author      : "Chris Kendrick"
 #  path: assets\img\clients\CKP-logo-white-transparent.png
 #  height: 60 #height in px, defaults to 52px
 locale      : "en-US" # See available languages in _data/sitetext.yml
+image       : "../assets/img/COMONight.jpg"
 
 #facebook:
 #  app_id: 1234
@@ -40,6 +41,8 @@ social:
     - https://www.instagram.com/ChrisKendrickPhotography/
     - https://www.linkedin.com/in/ChrisKendrickPhotography
     - https://github.com/kendrickcc
+
+#google_site_verification: # For verifying ownership via Google Search Console
 
 analytics:
   google: #Google Analytics tracking code here
