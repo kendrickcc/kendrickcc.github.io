@@ -13,18 +13,33 @@
 
 #theme: jekyll-agency
 
-url    : "https://chriskendrickphotography.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title      : "Chris Kendrick Photography"
-email      : "info@ChrisKendrickPhotography.com" #this is also the email contact forms will go to
-description: >-
+# Jekyll SEO Tag
+url         : "https://chriskendrickphotography.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl     : "" # the subpath of your site, e.g. /blog
+title       : "Chris Kendrick Photography"
+tagline     : "Aerial Photography, videography and photogrammetry services covering Missouri."
+email       : "info@ChrisKendrickPhotography.com" #this is also the email contact forms will go to
+description : >-
   Aerial photography, videography and photogrammetry services covering Missouri. Services include real estate and commercial property, 
   georeferenced orthomosaics, DTM, DSM, stock pile measurement, 3D objects. Based out of Columbia, MO, using Mavic 3 Enterprise with RTK and Mavic 3 Pro Cine.
-author     : "Chris Kendrick"
+author      : "Chris Kendrick"
 #logo:     #optional, defaults to site title
 #  path: assets\img\clients\CKP-logo-white-transparent.png
 #  height: 60 #height in px, defaults to 52px
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale      : "en-US" # See available languages in _data/sitetext.yml
+
+#facebook:
+#  app_id: 1234
+#  publisher: 1234
+#  admins: 1234
+
+social:
+  name: Chris Kendrick
+  links:
+    - https://www.facebook.com/ChrisKendrickPhotographyLLC
+    - https://www.instagram.com/ChrisKendrickPhotography/
+    - https://www.linkedin.com/in/ChrisKendrickPhotography
+    - https://github.com/kendrickcc
 
 analytics:
   google: #Google Analytics tracking code here
