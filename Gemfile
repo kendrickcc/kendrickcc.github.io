@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 # GitHub Pages Minimal theme
 # Includes jekyll-seo-tag
-gem 'jekyll-theme-minimal', '~> 0.2.0'
+# gem 'jekyll-theme-minimal', '~> 0.2.0'
