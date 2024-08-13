@@ -45,7 +45,7 @@ social:
 #google_site_verification: # For verifying ownership via Google Search Console
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "G-EE3DLWYPH3" #Google Analytics tracking code here
 
 collections:
   portfolio:
