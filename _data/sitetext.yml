@@ -31,6 +31,18 @@ en: &DEFAULT_EN
         desc: "DJI Mavic 3 Pro Cine with internal 1Gb SSD to accomodate Apple ProRes 422, 422 LT, and 422 HQ for all three Hasselblad cameras."
         icon: fas fa-video
 
+  rates:
+    title: "Rates"
+    text: "Starting fees for my services. Very little to no editing of imagery. Projects that require advanced editing of imagery will require advanced negotiation of fees. "
+    section: rates
+    list:
+      - title: "Half Day"
+        desc: "$250 - Drone services for 4 hours."
+        icon: fas fa-hourglass-start
+      - title: "Full Day"
+        desc: "$400 - Drone services for 8 hours."
+        icon: fas fa-hourglass-end
+
   portfolio:
     title: "Portfolio"
     text: "Sampling of various projects from Chris Kendrick Photography"
@@ -44,7 +56,7 @@ en: &DEFAULT_EN
       Chris Kendrick Photography launched in 2020 when Chris decided to change careers and focus primarily on photography. Received their FAA Part 107 certificate and immediately 
       found work flying corn, soybean and cotton fields for crop scouting. We expanded into real estate photography to include interior photography in addition to exterior
       photographs. In 2022 and 2023 Chris Kendrick Photography was hired to fly crops for Taranis. Over those two years, we flew over 100,000 acres mostly in North Missouri and a small
-      area in Southwest Kansas. We began to work on video projects such as documentaries, commercials and events. 
+      area in Southwest Kansas. We began to work on video projects such as documentaries, commercials and events.
     section: about
 
   clients:
