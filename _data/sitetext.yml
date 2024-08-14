@@ -79,7 +79,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: Call/Text (573) 416-0225
+    text: Voice/SMS (573) 416-0225
     section: contact
     name: "Name"
     name-validation: "Please enter your name."
