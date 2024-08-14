@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   rates:
     title: "Rates"
-    text: "Starting fees for my services. Very little to no editing of imagery. Projects that require advanced editing of imagery will require advanced negotiation of fees. "
+    text: "Starting fees for my services are listed below. These fees do not include additional editing of imagery. Projects that require advanced editing of imagery will be subject to additional fees. "
     section: rates
     list:
       - title: "Half Day"
